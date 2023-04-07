@@ -1839,6 +1839,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-size:14px;
   color:#CCCCCC;
   text-align:left;
   line-height:16px;
@@ -1851,6 +1852,7 @@
   width:324px;
   height:70px;
   display:flex;
+  font-size:14px;
   color:#CCCCCC;
   text-align:left;
   line-height:16px;
@@ -1866,6 +1868,7 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+  visibility:hidden;
 }
 #u52_div {
   border-width:0px;
@@ -2111,7 +2114,7 @@
 #u54 {
   border-width:0px;
   position:absolute;
-  left:980px;
+  left:1081px;
   top:0px;
   width:118px;
   height:70px;
@@ -2251,7 +2254,7 @@
 #u55 {
   border-width:0px;
   position:absolute;
-  left:1098px;
+  left:980px;
   top:0px;
   width:101px;
   height:70px;
