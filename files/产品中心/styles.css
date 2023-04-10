@@ -3085,7 +3085,7 @@
 #u73 {
   border-width:0px;
   position:absolute;
-  left:980px;
+  left:744px;
   top:0px;
   width:101px;
   height:70px;
@@ -3182,7 +3182,7 @@
 #u74 {
   border-width:0px;
   position:absolute;
-  left:744px;
+  left:1199px;
   top:0px;
   width:101px;
   height:70px;
@@ -3219,7 +3219,37 @@
 }
 .u74_input_option {
 }
-#u75_input {
+#u75_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:45px;
+  height:38px;
+}
+#u75 {
+  border-width:0px;
+  position:absolute;
+  left:-1024px;
+  top:629px;
+  width:45px;
+  height:38px;
+  display:flex;
+}
+#u75 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u75_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u76_input {
   position:absolute;
   left:0px;
   top:0px;
@@ -3238,7 +3268,7 @@
   background-color:transparent;
   border-color:transparent;
 }
-#u75_input.disabled {
+#u76_input.disabled {
   position:absolute;
   left:0px;
   top:0px;
@@ -3257,7 +3287,7 @@
   background-color:transparent;
   border-color:transparent;
 }
-#u75_div {
+#u76_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -3276,24 +3306,24 @@
   box-shadow:none;
   color:#FFFFFF;
 }
-#u75 {
+#u76 {
   border-width:0px;
   position:absolute;
-  left:1199px;
+  left:980px;
   top:0px;
   width:101px;
   height:70px;
   display:flex;
   color:#FFFFFF;
 }
-#u75 .text {
+#u76 .text {
   position:absolute;
   align-self:flex-start;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u75_div.disabled {
+#u76_div.disabled {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -3312,39 +3342,9 @@
   box-shadow:none;
   color:#FFFFFF;
 }
-#u75.disabled {
+#u76.disabled {
 }
-.u75_input_option {
-}
-#u76_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:45px;
-  height:38px;
-}
-#u76 {
-  border-width:0px;
-  position:absolute;
-  left:-1024px;
-  top:629px;
-  width:45px;
-  height:38px;
-  display:flex;
-}
-#u76 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u76_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
+.u76_input_option {
 }
 #u67_state1 {
   border-width:0px;
@@ -4577,8 +4577,8 @@
 #u96 {
   border-width:0px;
   position:absolute;
-  left:50px;
-  top:2682px;
+  left:0px;
+  top:2679px;
   width:1300px;
   height:416px;
 }
